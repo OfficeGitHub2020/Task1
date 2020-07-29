@@ -1,0 +1,18 @@
+How to run react app:
+1- You need node.js. So, download it via https://nodejs.org/en/ and click on Current Version.
+2-Install it as steps given in it.
+3-Then you have to install npm 
+4-Open CMD as admin
+5-then run "npm install create-react-app -g" 
+6-let it install
+7- YOU CAN ALSO CHOOSE IN WHICH FOLDER YOU HAVE TO INSTALL IT AND MAKE PROJECTS USING commands.
+	cd .. :to navigate back to previous directory 
+	cd "next" : to navigate to next directory where next is the name of your directory/folder.
+	also to change your drive like if you want to be in D: drive then just type d: anf hit enter 
+8- After choosing folder, you have to make a folder which you can do from cmd itself 
+9-Type "create-react-app "name of the folder you want" and hit enter 
+10-That's it. Folder is created.
+11- Now, to run the project on browser type and enter "npm start" and wait to start.
+12-It will run in new tab of browser although sometime it does take some time.
+
+YOU CAN ASK ME ANYTIME IF YOU NEED HELP!!!
